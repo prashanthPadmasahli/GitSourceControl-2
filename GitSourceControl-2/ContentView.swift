@@ -16,6 +16,9 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Prashanth Kumar Padmashali")
             
+            Button("Subscribe") {
+                
+            }
         }
         .padding()
         
