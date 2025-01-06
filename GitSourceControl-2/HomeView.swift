@@ -14,6 +14,7 @@ struct HomeView: View {
             Text("1")
             Text("2")
             Text("3")
+            Text("Bottom heading")
         }
     }
 }
