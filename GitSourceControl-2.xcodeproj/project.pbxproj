@@ -11,6 +11,7 @@
 		044EF4A62D2BC1B100133D51 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044EF4A52D2BC1B100133D51 /* ContentView.swift */; };
 		044EF4A82D2BC1B300133D51 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 044EF4A72D2BC1B300133D51 /* Assets.xcassets */; };
 		044EF4AB2D2BC1B300133D51 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 044EF4AA2D2BC1B300133D51 /* Preview Assets.xcassets */; };
+		044EF4B22D2C22F700133D51 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044EF4B12D2C22F700133D51 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		044EF4A52D2BC1B100133D51 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		044EF4A72D2BC1B300133D51 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		044EF4AA2D2BC1B300133D51 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		044EF4B12D2C22F700133D51 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				044EF4A32D2BC1B100133D51 /* GitSourceControl_2App.swift */,
 				044EF4A52D2BC1B100133D51 /* ContentView.swift */,
+				044EF4B12D2C22F700133D51 /* HomeView.swift */,
 				044EF4A72D2BC1B300133D51 /* Assets.xcassets */,
 				044EF4A92D2BC1B300133D51 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				044EF4B22D2C22F700133D51 /* HomeView.swift in Sources */,
 				044EF4A62D2BC1B100133D51 /* ContentView.swift in Sources */,
 				044EF4A42D2BC1B100133D51 /* GitSourceControl_2App.swift in Sources */,
 			);
