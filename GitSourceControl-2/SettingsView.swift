@@ -11,7 +11,7 @@ struct SettingsView: View {
     var body: some View {
         VStack {
             Text("Settings")
-            Text("Label")
+            Text("Labeel-1")
         }
     }
 }
