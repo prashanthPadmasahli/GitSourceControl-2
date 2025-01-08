@@ -1,5 +1,7 @@
 # Specify default owners for the entire repository
-*        @team-ios
+*        @prashanthPadmasahli
+*        @ro4013377
+
 
 # Ownership for the Xcode project file
 *.xcodeproj @team-ios-leads
