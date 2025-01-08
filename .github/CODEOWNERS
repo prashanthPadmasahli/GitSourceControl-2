@@ -1,0 +1,30 @@
+# Specify default owners for the entire repository
+*        @prashanthPadmasahli
+*        @ro4013377
+
+
+# Ownership for the Xcode project file
+*.xcodeproj @team-ios-leads
+
+# Ownership for Swift files
+*.swift    @team-ios
+
+# Ownership for Objective-C files
+*.m @team-ios
+*.h @team-ios
+
+# Ownership for Storyboards and XIBs
+*.storyboard @team-ux
+*.xib @team-ux
+
+# Ownership for assets
+*.xcassets @team-design
+
+# Ownership for test files
+Tests/* @team-ios
+
+# Ownership for documentation
+docs/* @team-documentation
+
+# Ownership for CI/CD configurations
+.github/workflows/* @team-ci
