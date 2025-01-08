@@ -16,11 +16,6 @@
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] Other (please specify):
 
-## Checklist
-- [ ] I have tested the changes locally.
-- [ ] I have added necessary documentation or comments.
-- [ ] I have updated the CHANGELOG (if applicable).
-
 ## Screenshots (if applicable)
 - Insert screenshots, GIFs, or links to visual elements that help understand the changes.
 
