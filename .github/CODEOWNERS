@@ -4,27 +4,27 @@
 
 
 # Ownership for the Xcode project file
-*.xcodeproj @team-ios-leads
+*.xcodeproj 
 
 # Ownership for Swift files
-*.swift    @team-ios
+*.swift    
 
 # Ownership for Objective-C files
-*.m @team-ios
-*.h @team-ios
+*.m @prashanthPadmasahli
+*.h @prashanthPadmasahli
 
 # Ownership for Storyboards and XIBs
-*.storyboard @team-ux
-*.xib @team-ux
+*.storyboard @prashanthPadmasahli
+*.xib 
 
 # Ownership for assets
-*.xcassets @team-design
+*.xcassets @prashanthPadmasahli
 
 # Ownership for test files
-Tests/* @team-ios
+Tests/* @prashanthPadmasahli
 
 # Ownership for documentation
-docs/* @team-documentation
+docs/* @prashanthPadmasahli
 
 # Ownership for CI/CD configurations
-.github/workflows/* @team-ci
+.github/workflows/* 
