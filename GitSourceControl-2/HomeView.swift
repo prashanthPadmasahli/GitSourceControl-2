@@ -13,7 +13,7 @@ struct HomeView: View {
             Text("Top heading New")
             Text("Top")
             Text("1")
-            Text("Home view - feature 2")
+            Text("Home view - new 2")
         }
     }
 }
