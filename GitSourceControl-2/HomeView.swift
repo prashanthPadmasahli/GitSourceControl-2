@@ -10,10 +10,11 @@ import SwiftUI
 struct HomeView: View {
     var body: some View {
         VStack {
-            Text("Top heading New")
+            Text("Top heading New-2")
             Text("Top")
             Text("1")
             Text("Home view - new 2")
+            
         }
     }
 }
